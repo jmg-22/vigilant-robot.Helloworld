@@ -2,3 +2,10 @@ Hello World. This is my first readme file. In here
 you shall find what I intend to do here etc.
 I want to ......
 Now I am making chanes in the Browsers Tab
+tHIS one is Made a brnach and Ive made chnages,
+ What will hapeen when i merge?
+ 
+ 
+ 
+ 
+ 7-10 nEeds to get merged with old file . But ive chnaged name of file. Okay i willl chnage it back
